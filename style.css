@@ -52,6 +52,10 @@ body {
     --hover-color:rgb(169, 193, 193);
     --FoodCard-Bg-Light: rgb(240, 240, 240);
 }
+.h-sec > img, .head-icon, button, .f-logo img {
+    /* Pointer Click for link and buttons */
+    cursor: pointer;
+}
 
 /* 
     ==          ==           ==         ==        ==
